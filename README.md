@@ -16,9 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 source("C:/Users/bfincham/Documents/BoG Reports/Program Reviews/2025-2026/Program Reviews v3.R")
 ```
 
-## Accessing R Code Used
-* This document outlined the logical process for cleaning and analyzing data to complete regular Program Reviews. The full code can be found within the *Institutional Effectiveness Sharepoint Site*.
-
 ## Argos Reports Needed:
 * Student by Term (SBT) -- Reports for Fall, Spring, Summer 10 Week, and Summer 5 Week for Academic Years 2021 - 2025, and report for Fall 2025 were downloaded.
     + Fall SBT reports included columns to check enrollment in the proceeding Spring and Fall semesters.
